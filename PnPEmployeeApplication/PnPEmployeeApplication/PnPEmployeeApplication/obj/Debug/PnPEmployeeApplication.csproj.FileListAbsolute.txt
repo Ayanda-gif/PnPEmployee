@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\PnPEmployeeApplication\PnPEmployeeApplication\bin\Debug\PnPEmployeeApplication.exe.config
+C:\Users\User\source\repos\PnPEmployeeApplication\PnPEmployeeApplication\bin\Debug\PnPEmployeeApplication.exe
+C:\Users\User\source\repos\PnPEmployeeApplication\PnPEmployeeApplication\bin\Debug\PnPEmployeeApplication.pdb
+C:\Users\User\source\repos\PnPEmployeeApplication\PnPEmployeeApplication\obj\Debug\PnPEmployeeApplication.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\PnPEmployeeApplication\PnPEmployeeApplication\obj\Debug\PnPEmployeeApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\PnPEmployeeApplication\PnPEmployeeApplication\obj\Debug\PnPEmployeeApplication.Properties.Resources.resources
+C:\Users\User\source\repos\PnPEmployeeApplication\PnPEmployeeApplication\obj\Debug\PnPEmployeeApplication.csproj.GenerateResource.cache
+C:\Users\User\source\repos\PnPEmployeeApplication\PnPEmployeeApplication\obj\Debug\PnPEmployeeApplication.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PnPEmployeeApplication\PnPEmployeeApplication\obj\Debug\PnPEmployeeApplication.exe
+C:\Users\User\source\repos\PnPEmployeeApplication\PnPEmployeeApplication\obj\Debug\PnPEmployeeApplication.pdb
+C:\Users\User\source\repos\PnPEmployeeApplication\PnPEmployeeApplication\obj\Debug\PnPEmployeeApplication.Welcome.resources
+C:\Users\User\source\repos\PnPEmployeeApplication\PnPEmployeeApplication\obj\Debug\PnPEmployeeApplication.Update.resources
+C:\Users\User\source\repos\PnPEmployeeApplication\PnPEmployeeApplication\obj\Debug\PnPEmployeeApplication.AddUser.resources
